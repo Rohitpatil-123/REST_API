@@ -8,3 +8,4 @@ $ npm install
 cd src
 node index.js
 ```
+##### this project is created as an assignment
